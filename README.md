@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Syed Ismail
+# 👋 Hi, I'm Ismail
 
 ### 👨‍💻 Bio:
 Experienced software developer with 3+ years of expertise in **React** and **Angular**, specializing in building **responsive** and **modular** applications.
@@ -6,6 +6,9 @@ Experienced software developer with 3+ years of expertise in **React** and **Ang
 ### 🔗 Connect with me:
 <a href="https://linkedin.com/in/syd-ismail" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
+</a>
+<a href="https://github.com/SYED175" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
 </a>
 
 ### 🚀 Tech Stack:
@@ -22,6 +25,13 @@ Experienced software developer with 3+ years of expertise in **React** and **Ang
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="40" height="40"/>
 </p>
+
+---
+
+### 📂 My Projects:
+- [Admission Form AmbUloom](https://github.com/SYED175/Admission-Form-AmbUloom)
+- [Dashboard React](https://github.com/SYED175/Dashboard-React)
+- [Ambuloom Backend Node.js](https://github.com/SYED175/ambuloom-backend-node)
 
 ---
 
