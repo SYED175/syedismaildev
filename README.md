@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ismail
+# 👋 Hi, I'm Syed Ismail
 
 ### 👨‍💻 Bio:
 Experienced software developer with 3+ years of expertise in **React** and **Angular**, specializing in building **responsive** and **modular** applications.
