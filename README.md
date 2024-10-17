@@ -27,9 +27,9 @@ Experienced software developer with 3+ years of expertise in **React** and **Ang
 ---
 
 ### 📂 My Projects:
-- [Admission Form AmbUloom](https://github.com/SYED175/Admission-Form-AmbUloom)
-- [Dashboard React](https://github.com/SYED175/Dashboard-React)
-- [Ambuloom Backend Node.js](https://github.com/SYED175/ambuloom-backend-node)
+- [Interactive Admission Form for AmbUloom (React)](https://github.com/SYED175/Admission-Form-AmbUloom)
+- [AmbUloom Administrative Dashboard (React)](https://github.com/SYED175/Dashboard-React)
+- [AmbUloom Backend API (Node.js)](https://github.com/SYED175/ambuloom-backend-node)
 
 ---
 
