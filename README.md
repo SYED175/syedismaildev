@@ -40,4 +40,4 @@ Experienced software developer with 3+ years of expertise in **React** and **Ang
 
 ### 🌱 Currently building:
 - Modern web applications using React, Node.js, and MongoDB.
-- Exploring freelancing opportunities in the US market.
+- Exploring next.js, three.js, AWS cloud.
