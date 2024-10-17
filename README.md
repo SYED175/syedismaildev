@@ -7,7 +7,9 @@ Experienced software developer with 3+ years of expertise in **React** and **Ang
 <a href="https://linkedin.com/in/syd-ismail" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
 </a>
-
+<a href="https://github.com/SYED175" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/>
+</a>
 ### 🚀 Tech Stack:
 
 <p>
