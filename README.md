@@ -27,7 +27,11 @@ Experienced software developer with 3+ years of expertise in **React** and **Ang
 ---
 
 ### 📂 My Projects:
-- [Interactive Admission Form for AmbUloom (React)](https://github.com/SYED175/Admission-Form-AmbUloom) || **Tech:** React, TypeScript, Axios, Zod, Tailwind CSS, shadcn/ui
+
+- [Interactive Admission Form for AmbUloom (React)](https://github.com/SYED175/Admission-Form-AmbUloom)  
+  **Tech:** React, TypeScript, Axios, Zod, Tailwind CSS, shadcn/ui  
+  **Visit 👁️👁️:** [Live Demo](https://admission-form-amb-uloom-v1.vercel.app)
+  
 - [AmbUloom Administrative Dashboard (React)](https://github.com/SYED175/Dashboard-React) || **Tech:** React, TypeScript, Axios, react-query, Tailwind CSS, shadcn/ui
 - [AmbUloom Backend API (Node.js)](https://github.com/SYED175/ambuloom-backend-node) || **Tech:** Express.js, Mongodb, Bcrypt, JWT
 
