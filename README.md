@@ -2,7 +2,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=syedzabii&label=Profile%20views&color=0e75b6&style=flat" alt="syedzabii" /> </p>  
 
 ### 👨‍💻 Bio:
-Experienced software developer with 3+ years of expertise in **React** and **Express.js**, specializing in building **responsive** and **modular** applications.
+Software developer with  3+ years MERN expertise
 
 ### 🔗 Connect with me:
 <a href="https://linkedin.com/in/syd-ismail" target="_blank">
