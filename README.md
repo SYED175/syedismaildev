@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Syed Ismail
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=syedzabii&label=Profile%20views&color=0e75b6&style=flat" alt="syedzabii" /> </p>  
 ### 👨‍💻 Bio:
 Experienced software developer with 3+ years of expertise in **React** and **Express.js**, specializing in building **responsive** and **modular** applications.
 
