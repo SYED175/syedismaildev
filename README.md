@@ -44,3 +44,5 @@ Experienced software developer with 3+ years of expertise in **React** and **Exp
 ### 🌱 Currently building:
 - Modern web applications using React, Node.js, and MongoDB.
 - Exploring next.js, three.js, AWS cloud.
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=syedzabii&" alt="syedzabii" /></p>
