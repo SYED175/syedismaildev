@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Syed Ismail
 
 ### 👨‍💻 Bio:
-Experienced software developer with 3+ years of expertise in **React** and **Angular**, specializing in building **responsive** and **modular** applications.
+Experienced software developer with 3+ years of expertise in **React** and **Express.js**, specializing in building **responsive** and **modular** applications.
 
 ### 🔗 Connect with me:
 <a href="https://linkedin.com/in/syd-ismail" target="_blank">
@@ -34,6 +34,9 @@ Experienced software developer with 3+ years of expertise in **React** and **Ang
   **Visit :** [Live ⚡](https://dashboard-react-ten-pi.vercel.app)
 
 - [Backend Node.js (Project Repo)](https://github.com/SYED175/ambuloom-backend-node)
+
+  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=syedzabii&show_icons=true&locale=en&layout=compact" alt="syedzabii" /></p>  
 
 
 ---
